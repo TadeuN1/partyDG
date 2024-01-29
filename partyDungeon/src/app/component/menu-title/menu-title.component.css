@@ -1,0 +1,14 @@
+.container__menu-title{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 35px;
+}
+
+.container__menu-title ul{
+  display: flex;
+  flex-direction: row;
+}
+
+.container__menu-title ul li{
+  padding-right: 20px;
+  list-style: none;
+}
