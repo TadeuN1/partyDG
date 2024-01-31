@@ -1,1 +1,24 @@
+.container__menu-chars{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  border: 5px solid red;
+  padding: 20px;
+  margin:5px;
+}
 
+.info__menu-chars{
+  display: flex;
+  flex-direction: row;
+  border: 2px solid blue;
+  padding: 50px;
+  justify-content: center;
+  justify-items: center;
+}
+.stats__menu-chars{
+  padding: 50px;
+  border: 2px solid red;
+  justify-content: center;
+  margin: 20px;
+}

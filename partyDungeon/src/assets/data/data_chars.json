@@ -1,0 +1,56 @@
+{
+  "chars":[
+   {
+    "id":1,
+    "name": "Naira",
+    "stats":[
+      {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":100},
+      {"id":2, "name-stats":"Attack", "alias":"ATK", "value":20},
+      {"id":3, "name-stats":"Defense", "alias":"DEF", "value":80},
+      {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":200}
+    ]
+   },
+   {
+    "id":2,
+    "name": "Hope",
+    "stats":[
+      {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":200},
+      {"id":2, "name-stats":"Attack", "alias":"ATK", "value":50},
+      {"id":3, "name-stats":"Defense", "alias":"DEF", "value":100},
+      {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":50}
+    ]
+   },
+   {
+    "id":3,
+    "name": "Lua",
+    "stats":[
+      {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":110},
+      {"id":2, "name-stats":"Attack", "alias":"ATK", "value":200},
+      {"id":3, "name-stats":"Defense", "alias":"DEF", "value":40},
+      {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":50}
+    ]
+   },
+   {
+    "id":4,
+    "name": "Messi",
+    "stats":[
+      {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":150},
+      {"id":2, "name-stats":"Attack", "alias":"ATK", "value":100},
+      {"id":3, "name-stats":"Defense", "alias":"DEF", "value":100},
+      {"id":4, "name-stats":"Intelligence", "alias":"INT", "value": 50}
+    ]
+   }
+
+
+
+
+
+
+
+
+
+
+  ]
+
+
+}
