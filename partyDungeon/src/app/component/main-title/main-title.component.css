@@ -1,0 +1,13 @@
+.container__main-title{
+  border: 2px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 50px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: saddlebrown;
+}

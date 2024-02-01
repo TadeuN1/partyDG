@@ -2,43 +2,61 @@
   "chars":[
    {
     "id":1,
-    "name": "Naira",
+    "name": "Na' Ira",
+    "desc": "Feiticeira herdeira da pedra Filosofal.",
     "stats":[
       {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":100},
       {"id":2, "name-stats":"Attack", "alias":"ATK", "value":20},
       {"id":3, "name-stats":"Defense", "alias":"DEF", "value":80},
       {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":200}
-    ]
+    ],
+    "sprites": "assets/imgs/heroes/nairaCartoon.png",
+    "spritesAlt": "Imagem da Personagem Na' Ira."
+
    },
    {
     "id":2,
-    "name": "Hope",
+    "name": "Ho' Puda",
+    "desc": "Felina mau humorada.",
     "stats":[
       {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":200},
       {"id":2, "name-stats":"Attack", "alias":"ATK", "value":50},
       {"id":3, "name-stats":"Defense", "alias":"DEF", "value":100},
       {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":50}
-    ]
+    ],
+    "sprites": "assets/imgs/heroes/hopeCartoon.png",
+    "spritesAlt": "Imagem da Personagem Ho' Puda."
+
    },
    {
     "id":3,
-    "name": "Lua",
+    "name": "Mo' On",
+    "desc": "Felina arqueira, irmã mais nova de Me' Ssun.",
     "stats":[
       {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":110},
       {"id":2, "name-stats":"Attack", "alias":"ATK", "value":200},
       {"id":3, "name-stats":"Defense", "alias":"DEF", "value":40},
       {"id":4, "name-stats":"Intelligence", "alias":"INT", "value":50}
-    ]
+    ],
+    "sprites": "assets/imgs/heroes/luaCartoon.png",
+    "spritesAlt": "Imagem da Personagem Mo' On."
+
+
    },
    {
     "id":4,
-    "name": "Messi",
+    "name": "Me' Ssun",
+    "desc": "Felino cavaleiro, irmão mais velho de Mo' On.",
     "stats":[
       {"id":1, "name-stats":"Health Pack", "alias":"HP", "value":150},
       {"id":2, "name-stats":"Attack", "alias":"ATK", "value":100},
       {"id":3, "name-stats":"Defense", "alias":"DEF", "value":100},
       {"id":4, "name-stats":"Intelligence", "alias":"INT", "value": 50}
-    ]
+    ],
+    "sprites": "assets/imgs/heroes/messiCartoon.png",
+    "spritesAlt": "Imagem da Personagem Mo' On."
+
+
    }
 
 

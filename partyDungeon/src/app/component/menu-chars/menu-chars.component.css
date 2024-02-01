@@ -5,20 +5,28 @@
   justify-items: center;
   border: 5px solid red;
   padding: 20px;
-  margin:5px;
+  margin:20px;
+  max-height: 100%;
+  max-width: 100%;
 }
-
 .info__menu-chars{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   border: 2px solid blue;
-  padding: 50px;
-  justify-content: center;
-  justify-items: center;
+  padding: 25px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .stats__menu-chars{
-  padding: 50px;
-  border: 2px solid red;
+  border: 2px solid purple;
+  display: grid;
+  grid-template-columns: 50% 50%;
   justify-content: center;
-  margin: 20px;
+  justify-items: center;
+  padding: 30px;
+  }
+
+.stats__menu-chars ul{
+  border: 2px solid purple;
+  list-style: none;
 }
+

@@ -9,6 +9,7 @@ import { ButtonPlayComponent } from './component/button-play/button-play.compone
 import { HomeComponent } from './pages/home/home.component';
 import { AboutComponent } from './pages/about/about.component';
 import { StartComponent } from './pages/start/start.component';
+import { MainTitleComponent } from './component/main-title/main-title.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { StartComponent } from './pages/start/start.component';
     ButtonPlayComponent,
     HomeComponent,
     AboutComponent,
-    StartComponent
+    StartComponent,
+    MainTitleComponent
   ],
   imports: [
     BrowserModule,
