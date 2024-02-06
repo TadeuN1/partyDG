@@ -29,4 +29,36 @@
   border: 2px solid purple;
   list-style: none;
 }
+.btnProx{
+  width: 45px;
+  height: 100px;
+  opacity: 0.5;
+  align-self: center;
+  font-size: xx-large;
+  background-color: aquamarine;
+  margin: 5px 5px ;
+}
+.btnProx:hover{
+  opacity: 2;
+  background-color: aqua;
+  margin: 10px 10px ;
+
+}
+
+.btnAnt{
+  width: 45px;
+  height: 100px;
+  opacity: 0.5;
+  align-self: center;
+  font-size: xx-large;
+  background-color: aquamarine;
+  margin: 5px 5px ;
+}
+.btnAnt:hover{
+  opacity: 2;
+  background-color: aqua;
+  margin: 10px 10px ;
+
+}
+
 

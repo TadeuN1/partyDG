@@ -7,12 +7,11 @@ import data_chars from '../../../assets/data/data_chars.json'
   styleUrls: ['./menu-chars.component.css']
 })
 export class MenuCharsComponent implements OnInit {
-  indexChar:number=2;
+  indexChar:number=0;
   nameChar:string= ""
   descChar:string= ""
   imgChar:string= ""
   imgAlt:string=""
-
   ngOnInit(): void {
     this.nameChar = data_chars.chars[this.indexChar].name
     this.descChar = data_chars.chars[this.indexChar].desc
